@@ -1,5 +1,11 @@
 # mock
 
+```
+有两种方式：
+第一种方式：在main.js中引入mockServer.js文件
+第二种方式：在devServer中配置before
+```
+
 ## Project setup
 ```
 npm install
